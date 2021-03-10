@@ -1,0 +1,3 @@
+Toyota|Rav4|Austria|2004|N|350000|12000
+Audi|A5|Niemcy|2009|Nie|175000|42500
+Bmw|7|Polska|2018|Nie|60000|165000
